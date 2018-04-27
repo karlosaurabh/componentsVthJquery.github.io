@@ -56,7 +56,7 @@ nav ul.nav-right {float:initial;}
 .logoProtion{   float:initial; }
 nav{clear: both; display: inline-block; width:50%;}
 .toggle_btn{cursor: pointer;}
-.container{width: 93%; margin: 0 auto; padding:15px; clear: both;}
+.container{width: 90%; margin: 15px auto; padding:15px; clear: both;}
 }
 
 
